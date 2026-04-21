@@ -68,3 +68,15 @@ Tracks sales performance across different countries and markets.
 ### 6. Top 5 Performing Subcategories
 Highlights the highest-performing product subcategories based on sales.
 
+## Dashboard Insights
+- Technology category generates the highest profit.
+- Consumer segment contributes the largest share of sales.
+- Q4 records the highest sales and profit trends.
+- Phones and Accessories are top-performing subcategories.
+- United States leads in overall sales performance.
+
+## Dashboard Screenshots
+![Dashboard](<img width="1198" height="653" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/e7116a9a-f8de-4fff-8c08-6888cccd8bc4" />)
+
+## Conclusion
+This dashboard helps retail businesses monitor key metrics, identify profitable categories, track country performance, and make data-driven decisions efficiently.
