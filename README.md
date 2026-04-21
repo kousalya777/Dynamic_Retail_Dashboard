@@ -36,3 +36,35 @@ The project uses three datasets:
 - Sales
 - Profit
 - Discount
+
+### 2. Returns Table
+Contains information about returned orders and associated markets.
+
+### 3. People Table
+Contains sales representatives and their assigned regions.
+
+## Problem Statements Solved
+### 1. Key Performance Indicators (KPIs)
+KPIs displayed in the dashboard include:
+
+- Total Sales
+- Total Profit
+- Total Quantity
+- Total Orders
+- Profit Margin
+
+### 2. Sales and Profit Trend Analysis
+Analyzes sales and profit trends to identify seasonal patterns and business growth.
+
+### 3.Category-Wise Profit Analysis
+Compares profit across categories such as Furniture, Office Supplies, and Technology.
+
+### 4. Segment-Wise Sales Share
+Shows the percentage contribution of customer segments like Consumer, Corporate, and Home Office.
+
+### 5. Sales by Country
+Tracks sales performance across different countries and markets.
+
+### 6. Top 5 Performing Subcategories
+Highlights the highest-performing product subcategories based on sales.
+
