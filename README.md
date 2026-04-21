@@ -76,7 +76,6 @@ Highlights the highest-performing product subcategories based on sales.
 - United States leads in overall sales performance.
 
 ## Dashboard Screenshots
-![Dashboard](<img width="1198" height="653" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/e7116a9a-f8de-4fff-8c08-6888cccd8bc4" />)
-
+![dashboard](Dashboard_Screenshot.png)
 ## Conclusion
 This dashboard helps retail businesses monitor key metrics, identify profitable categories, track country performance, and make data-driven decisions efficiently.
