@@ -8,3 +8,31 @@ The Dynamic Retail Dashboard is an interactive and data-driven tool built in Exc
 - Pivot Charts
 - Slicers
 - Conditional Formatting
+
+## Features
+- Interactive dashboard with slicers
+- Dynamic KPI cards
+- Sales and profit trend analysis
+- Category-wise profit analysis
+- Segment-wise sales share analysis
+- Country-wise sales tracking
+- Top-performing subcategory analysis
+- Real-time filtering and drill-down
+- Automated data transformation using Power Query
+
+## Dataset Information
+
+The project uses three datasets:
+
+### 1. Orders Table
+
+- Order ID
+- Order Date
+- Ship Date
+- Customer Name
+- Segment
+- Country
+- Market
+- Sales
+- Profit
+- Discount
