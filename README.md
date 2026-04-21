@@ -16,7 +16,7 @@ The Dynamic Retail Dashboard is an interactive and data-driven tool built in Exc
 - Category-wise profit analysis
 - Segment-wise sales share analysis
 - Country-wise sales tracking
-- Top-performing subcategory analysis
+- Top and Bottom performing subcategory analysis
 - Real-time filtering and drill-down
 - Automated data transformation using Power Query
 
