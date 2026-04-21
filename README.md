@@ -63,9 +63,9 @@ Compares profit across categories such as Furniture, Office Supplies, and Techno
 Shows the percentage contribution of customer segments like Consumer, Corporate, and Home Office.
 
 ### 5. Sales by Country
-Tracks sales performance across different countries and markets.
+Tracks sales performance across different countries.
 
-### 6. Top 5 Performing Subcategories
+### 6. Top 5 and Bottom 5 Performing Subcategories
 Highlights the highest-performing product subcategories based on sales.
 
 ## Dashboard Insights
